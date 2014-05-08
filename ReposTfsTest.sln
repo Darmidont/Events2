@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReposTfsTest", "ReposTfsTest\ReposTfsTest.csproj", "{30607C3F-BCFF-4F41-9C49-128CA622098A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events1", "Events1\Events1.csproj", "{34A27B6B-7DE6-4C2A-90E7-FE1FA10C90B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "event2", "event2\event2.csproj", "{BFBD86AE-B0A8-4547-91E8-36A91D2E4C5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{30607C3F-BCFF-4F41-9C49-128CA622098A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30607C3F-BCFF-4F41-9C49-128CA622098A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30607C3F-BCFF-4F41-9C49-128CA622098A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A27B6B-7DE6-4C2A-90E7-FE1FA10C90B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A27B6B-7DE6-4C2A-90E7-FE1FA10C90B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A27B6B-7DE6-4C2A-90E7-FE1FA10C90B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A27B6B-7DE6-4C2A-90E7-FE1FA10C90B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBD86AE-B0A8-4547-91E8-36A91D2E4C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBD86AE-B0A8-4547-91E8-36A91D2E4C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBD86AE-B0A8-4547-91E8-36A91D2E4C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBD86AE-B0A8-4547-91E8-36A91D2E4C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
